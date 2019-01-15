@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">earthquakes3d</string>
+    <string name="ask_for_location">You need the GPS for using this app. Please connect it</string>
+    <string name="drawer_open">Menu</string>
+    <string name="drawer_close">Close</string>
+    <string-array name="level_array">
+        <item>Today all</item>
+        <item>Last week all</item>
+        <item>Last week >5</item>
+        <item>Last Year >5</item>
+        <item>Last 5 years >7</item>
+        <item>Last 5 years >8</item>
+    </string-array>
+</resources>

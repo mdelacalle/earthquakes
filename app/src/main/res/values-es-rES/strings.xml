@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Earthquakes 3D</string>
+    <string name="ask_for_location">Necesitamos el GPS para saber que paradas tienes cerca. Por favor, danos permiso para que funcione.</string>
+    <string name="drawer_open">Menu</string>
+    <string name="drawer_close">Close</string>
+</resources>
